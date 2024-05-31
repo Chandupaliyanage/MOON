@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:ital,wght@0,100..700;1,100..700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Rubik+Doodle+Triangles&display=swap');
+.moon{
+    color: #F8EFBA;
+  font-family: "Josefin Sans", sans-serif;
+  background-color: black;
+}
+
+
+body{
+  background-image: url(/img/moon.jpg);
+background-size: 100%;
+
+#themoon{
+  font-family: "Josefin Sans", sans-serif;
+}
+
+.moon1{
+  font-family: "Josefin Sans", sans-serif;
+}
+
+.lunar{
+  font-family: "Rubik Doodle Triangles", system-ui;
+}
